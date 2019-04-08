@@ -8,3 +8,13 @@ C:\Users\CS180\Documents\Visual Studio 2017\Projects\FigureMeMail\FigureMeMail\o
 C:\Users\CS180\Documents\Visual Studio 2017\Projects\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.csproj.CoreCompileInputs.cache
 C:\Users\CS180\Documents\Visual Studio 2017\Projects\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.exe
 C:\Users\CS180\Documents\Visual Studio 2017\Projects\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.pdb
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\bin\Debug\FigureMeMail.exe.config
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\bin\Debug\FigureMeMail.exe
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\bin\Debug\FigureMeMail.pdb
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.csprojAssemblyReference.cache
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.Form1.resources
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.Properties.Resources.resources
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.csproj.GenerateResource.cache
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.csproj.CoreCompileInputs.cache
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.exe
+C:\Users\CS180\Desktop\AttendanceMonitor\FigureMeMail\FigureMeMail\obj\Debug\FigureMeMail.pdb
