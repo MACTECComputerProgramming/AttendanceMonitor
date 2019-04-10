@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CS180\\source\\repos\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj": {}
+    "C:\\Users\\zlisa\\OneDrive\\Documents\\GitHub\\AttendanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CS180\\source\\repos\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj": {
+    "C:\\Users\\zlisa\\OneDrive\\Documents\\GitHub\\AttendanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CS180\\source\\repos\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj",
+        "projectUniqueName": "C:\\Users\\zlisa\\OneDrive\\Documents\\GitHub\\AttendanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj",
         "projectName": "ATenDanceMonitor",
-        "projectPath": "C:\\Users\\CS180\\source\\repos\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj",
-        "packagesPath": "C:\\Users\\CS180\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CS180\\source\\repos\\ATenDanceMonitor\\ATenDanceMonitor\\obj\\",
+        "projectPath": "C:\\Users\\zlisa\\OneDrive\\Documents\\GitHub\\AttendanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor.csproj",
+        "packagesPath": "C:\\Users\\zlisa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zlisa\\OneDrive\\Documents\\GitHub\\AttendanceMonitor\\ATenDanceMonitor\\ATenDanceMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\CS180\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\zlisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
